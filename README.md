@@ -2,11 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%40c057&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome+to+my+Github+Profile!;" />
 </div>
 
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%c0eb75&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome+to+my+Github+Profile!;" />
-</div>
-
-
 <p align="center">
 
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
