@@ -19,4 +19,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+<p float="left">
 <a href="https://www.linkedin.com/in/handenur-genc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+
+ <a href="">
+<img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
+ </a>
+ <a href="handegencc@hotmail.com">
+<img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" width="40">
+ </a>
+</p>
