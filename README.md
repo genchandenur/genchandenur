@@ -21,10 +21,13 @@ Here are some ideas to get you started:
 
 
 
-<p float="left">
-<a href="https://www.linkedin.com/in/handenur-genc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<h1 align="left"> You Can Reach Me Via </h1>
 
- <a href="">
+<p float="left">
+  <a href="https://www.linkedin.com/in/handenur-genc/">
+<img alt="choubari" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+ </a>
+ <a href="https://medium.com/">
 <img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
  </a>
  <a href="handegencc@hotmail.com">
