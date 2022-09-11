@@ -1,9 +1,7 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋+I'm+Handenur+Genç"&center=true&size=5">
-  </a>
-</h1>
-
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome;" />
+</div>
+                                                                                                                                          
 <!--
 **genchandenur/genchandenur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
