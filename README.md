@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/handenur-genc/">
 <img alt="choubari" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
  </a>
- <a href="https://medium.com/">
+ <a href="https://medium.com/@handegenccc">
 <img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
  </a>
  <a href="handegencc@hotmail.com">
