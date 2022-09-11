@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left"> You Can Reach Me Via </h1>
+<h1 align="left"> 📫 How to reach me </h1>
 
 <p float="left">
   <a href="https://www.linkedin.com/in/handenur-genc/">
