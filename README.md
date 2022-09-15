@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left"> 📫 How to reach me </h3>
+<h3 align="left"> 📫 How to reach me: </h3>
 
 <p float="left">
   <a href="https://www.linkedin.com/in/handenur-genc/">
@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" width="40">
  </a>
 </p>
+
+<h3 align="left"> Languages and Tools: </h3>
