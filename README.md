@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="left"> 📫 How to reach me </h1>
+<h3 align="left"> 📫 How to reach me </h3>
 
 <p float="left">
   <a href="https://www.linkedin.com/in/handenur-genc/">
