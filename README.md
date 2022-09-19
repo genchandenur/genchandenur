@@ -24,7 +24,7 @@ My research interests are Medical Imaging, DL, ML, AI, Computer Vision.
  <a href="https://medium.com/@handegenccc">
 <img alt="choubari" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw=w480-h960-rw" width="40">
  </a>
- <a href="handegenccc@gmail.com">
+ <a href="https://outlook.live.com/owa/">
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" width="40">
  </a>     
 </p>
