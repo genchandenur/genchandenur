@@ -7,7 +7,7 @@ I am currently a graduate student in Biomedical Engineering at Yeditepe Universi
 - 👩‍💻 Developing feature extraction algorithms from the data collected with the prototype.
 - 👩‍💻 Development of image enhancement and classification algorithms for the data collected with the prototype.
 
-My research interests are medical imaging, DL, ML, AI, Computer Vision.
+My research interests are Medical Imaging, DL, ML, AI, Computer Vision.
 
 <p align="center">
 
