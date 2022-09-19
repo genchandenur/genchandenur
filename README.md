@@ -2,6 +2,10 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%40c057&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome+to+my+Github+Profile!;" />
 </div>
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=#3f83f1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome+to+my+Github+Profile!;" />
+</div>
+
 I am currently a graduate student in Biomedical Engineering at Yeditepe University. At the same time, I contribute to the development of low-cost sensor systems for the real-time detection of bioaerosols in the air at the Arçelik R&D Center. My tasks within the scope of the project are;
 
 - 👩‍💻 Developing feature extraction algorithms from the data collected with the prototype.
@@ -14,23 +18,7 @@ My research interests are medical imaging, DL, ML, AI, Computer Vision.
   <img src="/Be.gif" height="200" />
 </p>
     
-<!--
-**genchandenur/genchandenur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+    
 <h3 align="left"> 📫 How to reach me: </h3>
 
 <p float="left">
