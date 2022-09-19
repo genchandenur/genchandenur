@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" width="40">
  </a>
  <a href="https://huggingface.co/genchandenur">
-<img alt="choubari" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="40">
+<img alt="choubari" src="[https://huggingface.co/front/assets/huggingface_logo-noborder.svg](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="40">
  </a>
 </p>
 
