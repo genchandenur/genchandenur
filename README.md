@@ -43,10 +43,10 @@ Here are some ideas to get you started:
  </a>
  <a href="handegencc@hotmail.com">
 <img alt="choubari" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Outlook.com_icon_%282012-2019%29.svg/761px-Outlook.com_icon_%282012-2019%29.svg.png" width="40">
- </a>
- <a href="https://huggingface.co/genchandenur">
-<img alt="choubari" src="[https://huggingface.co/front/assets/huggingface_logo-noborder.svg](https://huggingface.co/front/assets/huggingface_logo-noborder.svg)" width="40">
- </a>
+ </a>  
+  <a href="https://huggingface.co/genchandenur">
+<img alt="choubari" src="https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg" width="40">
+ </a>    
 </p>
 
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
