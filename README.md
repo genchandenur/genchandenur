@@ -7,13 +7,11 @@
   <img src="/Be.gif" height="200" />
 </p>
 
-<p align="center">
+
 I am currently a graduate student in Biomedical Engineering at Yeditepe University. At the same time, I contribute to the development of low-cost sensor systems for the real-time detection of bioaerosols in the air at the Arçelik R&D Center. My tasks within the scope of the project are;
 
     - Developing feature extraction algorithms from the data collected with the prototype.
     - Development of image enhancement and classification algorithms for the data collected with the prototype.
-                                                                                                                          
-</p>
 
 
 <!--
