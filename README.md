@@ -2,18 +2,17 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%40c057&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Handenur+Genç;Welcome+to+my+Github+Profile!;" />
 </div>
 
-<p align="center">
-
-  <img src="/Be.gif" height="200" />
-</p>
-
-
 I am currently a graduate student in Biomedical Engineering at Yeditepe University. At the same time, I contribute to the development of low-cost sensor systems for the real-time detection of bioaerosols in the air at the Arçelik R&D Center. My tasks within the scope of the project are;
 
 - 👩‍💻 Developing feature extraction algorithms from the data collected with the prototype.
 - 👩‍💻 Development of image enhancement and classification algorithms for the data collected with the prototype.
 
 My research interests are medical imaging, DL, ML, AI, Computer Vision.
+
+<p align="center">
+
+  <img src="/Be.gif" height="200" />
+</p>
     
 <!--
 **genchandenur/genchandenur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
