@@ -45,4 +45,7 @@ My research interests are Medical Imaging, DL, ML, AI, Computer Vision.
  </a>
     <a href="https://www.java.com/"> <img alt="choubari" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
  </a>
+  </a>
+    <a href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"> <img alt="choubari" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" width="40">
+ </a>
         </p>
