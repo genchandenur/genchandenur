@@ -29,6 +29,8 @@ My research interests are Medical Imaging, DL, ML, AI, Computer Vision.
  </a>     
 </p>
 
+![](https://komarev.com/ghpvc/?username=genchandenur&label=PROFILE+VIEWS)
+
 <h3 align="left"> 🛠️ Languages and Tools: </h3>
 
 <p align="left"> 
