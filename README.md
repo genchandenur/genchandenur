@@ -26,7 +26,7 @@ AI Engineer | Master’s background in Biomedical Engineering
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?raw=true" width="25" /> &nbsp; I’m working on <strong>AI</strong>, <strong>Generative AI</strong>, <strong>Deep Learning</strong>, and  <strong>Computer Vision</strong> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="22" /> &nbsp;&nbsp; Python is my main language for <strong>AI</strong>, <strong>data science</strong>.<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; Learning about Agents, RAG, LLMs, NLP, and MLOps.
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" /> &nbsp; Learning about Agents, RAG, LLMs, NLP, and MLOps.<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me: <strong>handegenccc@gmail.com</strong>.<br>
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> &nbsp; I <del>regularly</del> write about AI, technology, and my learning journey on <a href="https://medium.com/@handegenccc"><strong>Medium</strong></a>.<br>
 
