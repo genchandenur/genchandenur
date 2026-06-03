@@ -18,7 +18,7 @@ AI Engineer | Master’s background in Biomedical Engineering
 <a href="mailto:handegenccc@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="38" height="38" alt="Gmail" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/handenur-genc/"><img src="https://img.icons8.com/color/48/linkedin.png" width="38" height="38" alt="LinkedIn" /></a>&nbsp;
 <a href="https://medium.com/@handegenccc"><img src="https://img.icons8.com/ios-filled/50/FFFFFF/medium-logo.png" width="38" height="38" alt="Medium" /></a>&nbsp;
-<a href="https://github.com/handegenccc"><img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="38" height="38" alt="GitHub" /></a>&nbsp;
+<a href="https://github.com/genchandenur"><img src="https://img.icons8.com/ios-glyphs/60/FFFFFF/github.png" width="38" height="38" alt="GitHub" /></a>&nbsp;
 <a href="https://huggingface.co/genchandenur"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" /></a>
 </p>
 
